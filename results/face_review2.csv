@@ -1,0 +1,16 @@
+source,image,width,height,blur_score,faces_detected,face_area_ratio,detection_confidence,error,face_sharpness
+DSLR,dataset\dslr_images\123444_Front[1].jpg,5472,3648,13.95,1,0.2429,0.91,,581.6449584639206
+DSLR,dataset\dslr_images\858307005330_Front[2].jpg,5472,3648,14.09,1,0.1905,0.95,,647.711595184949
+DSLR,dataset\dslr_images\IMG_0586_Front[1].JPG,5472,3648,24.22,1,0.2414,0.97,,834.4600720892147
+Selfie,dataset\selfie_frames\Tina_20260924\frame_0.00s.jpg,720,1280,210.23,1,0.212,0.96,,626.5392618858532
+Selfie,dataset\selfie_frames\Tina_20260924\frame_1.00s.jpg,720,1280,215.7,2,,,,
+Selfie,dataset\selfie_frames\Tina_20260924\frame_2.00s.jpg,720,1280,217.12,1,0.2082,0.94,,671.6890032826637
+Selfie,dataset\selfie_frames\Tina_20260924\frame_3.00s.jpg,720,1280,214.01,1,0.1978,0.93,,642.9583326253927
+Selfie,dataset\selfie_frames\Tina_20260924\frame_4.00s.jpg,720,1280,215.27,1,0.2149,0.96,,623.5619888047485
+Selfie,dataset\selfie_frames\Tina_20260924\frame_5.00s.jpg,720,1280,219.76,1,0.2227,0.95,,688.9993143760876
+Selfie,dataset\selfie_frames\Titi_20260924\frame_0.00s.jpg,720,1280,228.89,1,0.2878,0.94,,599.9483532470647
+Selfie,dataset\selfie_frames\Titi_20260924\frame_1.00s.jpg,720,1280,251.08,1,0.2767,0.93,,602.1819477518217
+Selfie,dataset\selfie_frames\Titi_20260924\frame_2.00s.jpg,720,1280,250.77,1,0.2867,0.93,,616.4817790258234
+Selfie,dataset\selfie_frames\Titi_20260924\frame_3.00s.jpg,720,1280,254.36,1,0.2833,0.9,,615.0490972271864
+Selfie,dataset\selfie_frames\Titi_20260924\frame_4.00s.jpg,720,1280,249.33,1,0.2702,0.93,,597.2024028063912
+Selfie,dataset\selfie_frames\Titi_20260924\frame_5.00s.jpg,720,1280,256.95,1,0.2724,0.93,,608.0514922167847

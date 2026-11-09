@@ -1,8 +1,8 @@
 
 from deepface import DeepFace
 
-image1 = "dataset/test_images/image1.jpg"
-image2 = "dataset/test_images/image2.jpg"
+image1 = "dataset/test_images/IMG_0586.JPG"
+image2 = "dataset/test_images/frame_2.00s.jpg"
 
 models = ["ArcFace", "Facenet512", "SFace"]
 
